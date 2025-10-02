@@ -5,8 +5,9 @@ Curso DIO de segurança
 
 Plataforma de Virtualização:
 
-Visrtual BOV
-===============================================================================
+Virtual tual BOX
+
+============================================================================================
 Sistema SO utilizados:
 
 Kali Linux VirtualBox;
