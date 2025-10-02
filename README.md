@@ -12,6 +12,9 @@ Sistema SO utilizados:
 
 Kali Linux VirtualBox;
 
+metasploitable-linux-2.0.0.
+
+
 Exemplo de Utilização da Ferramenta Meduza;
 
 Linha de comando:
